@@ -1,5 +1,6 @@
 # LandlordOffDcuments
 Documents of project LandlordOff
-- proposal slides
-- report
-- final slides
+
+[x] proposal slides.  
+[x] report.  
+[ ] final slides.  
